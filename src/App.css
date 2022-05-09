@@ -1,0 +1,26 @@
+.btn:focus,
+.btn-close:focus,
+select:focus,
+input:focus{
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+.home{
+    padding-top: 6-rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: linear-gradient(90deg, #d53369 0%,#daae51 100%);
+    font-family: sans-serif;
+    width: 740px;
+    height: 550px;
+    margin-top: 80px;
+}
+
+label{
+    font-family: monotype corsiva;
+    font-weight: bold;
+    font-size: 20px !important;
+}
