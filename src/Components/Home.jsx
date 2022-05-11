@@ -3,7 +3,7 @@ import {NavLink} from 'react-router-dom'
 
 export default function Home() {
   return (
-    <div style={{backgroundColor:"red"}}> 
+    <div> 
     <div className='container-fluid'>
     <div className='container home'>
         <div className='col-md-12'>
