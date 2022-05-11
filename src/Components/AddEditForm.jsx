@@ -187,10 +187,10 @@ const AddEditForm = (props) => {
                 <option value="1">Maharashtra</option>
                 <option value="2">UP</option>
                 <option value="3">MP</option>
-                <option value="3">Aasam</option>
-                <option value="3">Gujrat</option>
-                <option value="3">Goa</option>
-                <option value="3">Keral</option>
+                <option value="4">Aasam</option>
+                <option value="5">Gujrat</option>
+                <option value="6">Goa</option>
+                <option value="7">Keral</option>
               </select>
             </div>
           </div>
@@ -213,8 +213,8 @@ const AddEditForm = (props) => {
                 <option value="1">Pune</option>
                 <option value="2">Mumbai</option>
                 <option value="3">Kolkata</option>
-                <option value="3">Dhule</option>
-                <option value="3">Chennai</option>
+                <option value="4">Dhule</option>
+                <option value="5">Chennai</option>
               </select>
             </div>
           </div>
